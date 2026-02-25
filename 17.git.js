@@ -15,7 +15,8 @@
 //git add<file_path>
 //git commit -m "commit_message"
 
-//* branch
+//! branch
+// git branch //? list all branches
 // git branch <branch_name>
 // git switch <branch_name>
 //git merge <branch_name> 
