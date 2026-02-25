@@ -19,6 +19,7 @@
 //!branch
 //git branch //?list all available branches
 //git branch <branch _name>  //?create new local branch
+//git switch <branch_name>
 
 
 
