@@ -15,11 +15,13 @@
 //git add<file_path>
 //git commit -m "commit_message"
 
-//! branch
-// git branch //? list all branches
-// git branch <branch_name>
-// git switch <branch_name>
-//git merge <branch_name> 
+
+//!branch
+//git branch //?list all available branches
+//git branch <branch _name>  //?create new local branch
+//git switch <branch_name>
+
+
 
 //!github
 //git ko history/version lai host garni web based platform ,backup rakhni
