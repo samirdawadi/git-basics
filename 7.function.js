@@ -37,6 +37,14 @@
 
 
 // funtion with parameters & arguments
+
+function greet(name){ // parameter
+    console.log("Hello " + name);
+}
+
+greet("Samir"); // argument
+
+
 // function greet(name) {
 //   console.log("Hello", name);
 // }
@@ -99,7 +107,7 @@ const subtract = function (a, b) {
 
 
 
-//!  arrow function ------ function keyword lekhna pardaina just '=>' yo chaiyo
+//!  arrow function ------ function keyword ra func name lekhna pardaina just '=>' yo chaiyo
 // const mul =  (a,b) => {
 //     return a * b
 // }
