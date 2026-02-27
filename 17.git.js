@@ -61,10 +61,20 @@ Tyo info user.name ra user.email bata linxa. */
 //git checkout <branch_name>    //switch ra checkout same kam ,mathilineko code ra yo same kam to swirch branch
 //git checkout -b <branch_name>  //yesle naya branch pani banauni vayo ani tyo sangai tehi naya branch ma switch pani garni vayo . already exits branch lai chai garna mildaina yesto
 
+//git branch -M main   ---->default branch main banaidinxa
+
 
 
 //!github
 //git ko history/version lai host garni web based platform ,backup rakhni thau 
+
+
+//git remote -v    -->yesle check garxa ki yedi hamro repo kunai sanga connect(Add) vako xa ki xaina 
+
+
+//git remote add origin <origin_repo_url>  ----->hamro .git locally banako repo(git init garda banako) lai ava original github ma add gardinxa anni teha safely store garna help garxa yedi .git file jhukera pani delete vayo vani . uel chai https kai ligda ramro
+
+//git push origin <banch_name>    //aba push hunxa
 
 
 
