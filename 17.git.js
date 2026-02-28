@@ -42,7 +42,7 @@ Tyo info user.name ra user.email bata linxa. */
 //git add<file_path>    //yo garesi wd bata staging area ma janxa balla ani jun file lai add garyo tyo ava staged changes vanni ma auxa aru sabai changes vanni part ma hunca , ani ava yo vaneko ava hami git ma push garna ready xam vanera bujey hunxa (github ma haina)
                         //add garesi status hery pani hunxa
 
-//git add .  -->current folder ko sabai add garna paryo vani
+//git add .  -->current folder ko sabai add garna paryo vani  ....save changes ma auxa ani . tespaxi balla commit garni . 
 
 //git commit -m "commit_message"     //Commit = Save point ho Git ma
         //to garesi changes bata add gareko file hatxa share wala option(source control) bata ani file haru ma gayera heryo vani hariyo bata normal ma change hunxa which means ava git le changes haru track garxa
