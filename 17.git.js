@@ -74,7 +74,7 @@ Tyo info user.name ra user.email bata linxa. */
 
 //git remote add origin <origin_repo_url>  ----->hamro .git locally banako repo(git init garda banako) lai ava original github ma add gardinxa anni teha safely store garna help garxa yedi .git file jhukera pani delete vayo vani . uel chai https kai ligda ramro
 
-//git push origin <banch_name>    //aba push hunxa
+//git push origin <banch_name>    //aba push hunxa yo line lekhise
 
 
 // git fetch origin  // origin/main
